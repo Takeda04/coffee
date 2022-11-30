@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Frances";
+    src: url("../fonts/Fraunces_9pt-Black.ttf");
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'BarlowR';
+    src: url('../fonts/Barlow-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+@font-face{
+    font-family: 'BarlowB';
+    src: url('../fonts/Barlow-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
